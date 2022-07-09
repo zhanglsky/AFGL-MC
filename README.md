@@ -1,1 +1,3 @@
-# Attention based Fine-grained LightWeight architecture for Fuji Maturity
+#AFGL-MC
+
+Code coming soon.
